@@ -24,33 +24,39 @@ This project is a Python-based weather information app that fetches the current 
 
 ## Prerequisites:
 
-Python 3.x installed on your machine.
-API Key for WeatherAPI. (A sample key is used in this example, but replace it with your own.)
-Required Python packages:
-bash
-Copy code
-pip install requests pyttsx3
-Setup
-Clone or Download the Repository:
+**Python 3.x installed on your machine.**
 
-If using Git:
-bash
-Copy code
-git clone https://github.com/yourusername/WeatherVoice.git
-cd WeatherVoice
+**API Key for WeatherAPI. (A sample key is used in this example, but replace it with your own.)**
+
+**Required Python packages:** 
+
+    pip install requests pyttsx3
+
+## Setup:
+
+### Clone or Download the Repository:
+
+**If using Git:**
+
+    git clone https://github.com/yourusername/WeatherVoice.git
+    cd WeatherVoice
+    
 Or download it directly from your GitHub repository.
-Move to the Project Directory: Navigate to the directory where the project is located:
 
-bash
-Copy code
-cd "C:\Users\anura\OneDrive\Desktop\Python\Say_Weather"
-Obtain API Key: Sign up on WeatherAPI and get your API key. Replace 3d17c583de334f9195491352240311 in the code with your key.
+### Move to the Project Directory:
 
-Run the Program:
+Navigate to the directory where the project is located:
 
-bash
-Copy code
-python weather_voice.py
+    cd "C:\Users\anura\OneDrive\Desktop\Python\Say_Weather"
+  
+### Obtain API Key:
+
+Sign up on WeatherAPI and get your API key. Enter your key.
+
+### Run the Program:
+
+    python weather_voice.py
+    
 Usage
 When prompted, enter the name of a city to get the current temperature in Celsius.
 The program will print the temperature and announce it aloud.
