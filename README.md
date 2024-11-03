@@ -77,11 +77,11 @@ To stop the program, close the terminal window or use a `KeyboardInterrupt` (Ctr
 
 ### Potential features to add:
 
-Additional weather details (humidity, conditions).
+  1 Additional weather details (humidity, conditions).
 
-Enhanced error handling for invalid city names or network issues.
+  2 Enhanced error handling for invalid city names or network issues.
 
-Graphical User Interface (GUI) for easier usage.
+  3 Graphical User Interface (GUI) for easier usage.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
