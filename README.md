@@ -77,16 +77,20 @@ To stop the program, close the terminal window or use a `KeyboardInterrupt` (Ctr
 
 ### Potential features to add:
 
-  1 Additional weather details (humidity, conditions).
+Additional weather details (humidity, conditions).
 
-  2 Enhanced error handling for invalid city names or network issues.
+Enhanced error handling for invalid city names or network issues.
 
-  3 Graphical User Interface (GUI) for easier usage.
+Graphical User Interface (GUI) for easier usage.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License:
 
-Acknowledgements
-WeatherAPI for providing weather data.
-Pyttsx3 for offline text-to-speech capabilities.
-Enjoy real-time weather updates with a voice assistant built in Python!
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Acknowledgements
+
+`WeatherAPI` for providing weather data.
+
+`Pyttsx3` for offline text-to-speech capabilities.
+
+# Enjoy real-time weather updates with a voice assistant built in Python!
