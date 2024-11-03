@@ -4,12 +4,18 @@
 
 This project is a Python-based weather information app that fetches the current temperature of any city and provides a spoken response with the weather information. Using the `requests` library to call a weather API, the program retrieves the latest weather data, and with `pyttsx3` (a text-to-speech engine), it reads the data aloud.
 
-Features
-Real-Time Weather Information: Fetches the current temperature for any city entered by the user.
-Voice Feedback: Speaks out the weather information using a text-to-speech engine.
-Continuous Mode: Allows users to check the weather for multiple cities in a loop.
-User-Friendly: Simply type in the name of a city and hear the current weather conditions.
-Technologies Used
+## Features:
+
+**Real-Time Weather Information:**  Fetches the current temperature for any city entered by the user.
+
+**Voice Feedback:**  Speaks out the weather information using a text-to-speech engine.
+
+**Continuous Mode:**  Allows users to check the weather for multiple cities in a loop.
+
+**User-Friendly:** Simply type in the name of a city and hear the current weather conditions.
+
+## Technologies Used:
+
 Python: The core programming language.
 Requests: For making HTTP requests to the weather API.
 Pyttsx3: For converting text to speech offline.
