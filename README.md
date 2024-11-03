@@ -57,24 +57,32 @@ Sign up on WeatherAPI and get your API key. Enter your key.
 
     python weather_voice.py
     
-Usage
-When prompted, enter the name of a city to get the current temperature in Celsius.
-The program will print the temperature and announce it aloud.
-To check another city, simply enter a new city name when prompted.
-To stop the program, close the terminal window or use a KeyboardInterrupt (Ctrl+C).
-Example Output
-csharp
-Copy code
-Enter the name of city: London
-The weather of London is 15 degree Celsius
-(Spoken aloud: "The weather of London is 15 degree Celsius")
+## Usage:
 
-Future Improvements
-Potential features to add:
+When prompted, enter the name of a city to get the current temperature in Celsius.
+
+The program will print the temperature and announce it aloud.
+
+To check another city, simply enter a new city name when prompted.
+
+To stop the program, close the terminal window or use a `KeyboardInterrupt` (Ctrl+C).
+
+## Example Output:
+
+    Enter the name of city: London
+    The weather of London is 15 degree Celsius
+    (Spoken aloud: "The weather of London is 15 degree Celsius")
+
+## Future Improvements:
+
+### Potential features to add:
 
 Additional weather details (humidity, conditions).
+
 Enhanced error handling for invalid city names or network issues.
+
 Graphical User Interface (GUI) for easier usage.
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
