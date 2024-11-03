@@ -93,4 +93,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 `Pyttsx3` for offline text-to-speech capabilities.
 
-# Enjoy real-time weather updates with a voice assistant built in Python!
+## Enjoy real-time weather updates with a voice assistant built in Python!
