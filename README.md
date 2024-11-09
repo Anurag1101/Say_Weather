@@ -59,13 +59,13 @@ Sign up on `WeatherAPI` and get your API key. Enter your key.
     
 ## Usage:
 
-When prompted, enter the name of a city to get the current temperature in Celsius.
+- When prompted, enter the name of a city to get the current temperature in Celsius.
 
-The program will print the temperature and announce it aloud.
+- The program will print the temperature and announce it aloud.
 
-To check another city, simply enter a new city name when prompted.
+- To check another city, simply enter a new city name when prompted.
 
-To stop the program, close the terminal window or use a `KeyboardInterrupt` (Ctrl+C).
+- To stop the program, close the terminal window or use a `KeyboardInterrupt` (Ctrl+C).
 
 ## Example Output:
 
