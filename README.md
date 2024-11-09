@@ -51,7 +51,7 @@ Navigate to the directory where the project is located:
   
 ### Obtain API Key:
 
-Sign up on WeatherAPI and get your API key. Enter your key.
+Sign up on `WeatherAPI` and get your API key. Enter your key.
 
 ### Run the Program:
 
