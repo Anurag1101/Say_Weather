@@ -10,9 +10,9 @@ This project is a Python-based weather information app that fetches the current 
 
 - **Voice Feedback:**  Speaks out the weather information using a text-to-speech engine.
 
-**Continuous Mode:**  Allows users to check the weather for multiple cities in a loop.
+- **Continuous Mode:**  Allows users to check the weather for multiple cities in a loop.
 
-**User-Friendly:** Simply type in the name of a city and hear the current weather conditions.
+- **User-Friendly:** Simply type in the name of a city and hear the current weather conditions.
 
 ## Technologies Used:
 
