@@ -77,15 +77,15 @@ Sign up on `WeatherAPI` and get your API key. Enter your key.
 
 ### Potential features to add:
 
-Additional weather details (humidity, conditions).
+- Additional weather details (humidity, conditions).
 
-Enhanced error handling for invalid city names or network issues.
+- Enhanced error handling for invalid city names or network issues.
 
-Graphical User Interface (GUI) for easier usage.
+- Graphical User Interface (GUI) for easier usage.
 
 ## License:
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the `MIT` License. See the `LICENSE` file for details.
 
 ## Acknowledgements
 
