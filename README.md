@@ -24,9 +24,9 @@ This project is a Python-based weather information app that fetches the current 
 
 ## Prerequisites:
 
-**Python 3.x installed on your machine.**
+- **Python 3.x installed on your machine.**
 
-**API Key for WeatherAPI. (A sample key is used in this example, but replace it with your own.)**
+- **API Key for WeatherAPI. (A sample key is used in this example, but replace it with your own.)**
 
 **Required Python packages:** 
 
