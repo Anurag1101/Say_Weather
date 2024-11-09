@@ -6,9 +6,9 @@ This project is a Python-based weather information app that fetches the current 
 
 ## Features:
 
-**Real-Time Weather Information:**  Fetches the current temperature for any city entered by the user.
+- **Real-Time Weather Information:**  Fetches the current temperature for any city entered by the user.
 
-**Voice Feedback:**  Speaks out the weather information using a text-to-speech engine.
+- **Voice Feedback:**  Speaks out the weather information using a text-to-speech engine.
 
 **Continuous Mode:**  Allows users to check the weather for multiple cities in a loop.
 
