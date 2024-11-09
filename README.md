@@ -16,11 +16,11 @@ This project is a Python-based weather information app that fetches the current 
 
 ## Technologies Used:
 
-**Python:**  The core programming language.
+- **Python:**  The core programming language.
 
-**Requests:** For making HTTP requests to the weather API.
+- **Requests:** For making HTTP requests to the weather API.
 
-**Pyttsx3:**  For converting text to speech offline.
+- **Pyttsx3:**  For converting text to speech offline.
 
 ## Prerequisites:
 
